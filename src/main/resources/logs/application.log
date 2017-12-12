@@ -1,0 +1,655 @@
+2017-08-24 11:59:57 INFO  Browser:14 - Hello
+2017-08-24 12:17:10 INFO  Browser:17 - Hello
+2017-08-24 12:17:10 INFO  DataStoreRepository:52 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-08-24 12:20:10 INFO  Browser:17 - Hello
+2017-08-24 12:20:10 INFO  DataStoreRepository:52 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-08-24 14:48:37 INFO  Browser:17 - Hello
+2017-08-24 14:48:37 INFO  DataStoreRepository:52 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-08-24 14:48:51 INFO  Browser:17 - Hello
+2017-08-24 14:48:51 INFO  DataStoreRepository:52 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-08-24 14:51:19 INFO  Browser:17 - Hello
+2017-08-24 14:51:19 INFO  DataStoreRepository:52 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-08-24 14:57:28 INFO  Browser:17 - Hello
+2017-08-24 14:57:28 INFO  DataStoreRepository:52 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-08-24 14:58:45 INFO  Browser:18 - Hello
+2017-08-24 14:58:45 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 15:07:13 INFO  Browser:18 - Hello
+2017-08-24 15:13:54 INFO  Browser:18 - Hello
+2017-08-24 15:13:54 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 15:14:52 INFO  Browser:18 - Hello
+2017-08-24 15:14:52 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 15:17:04 INFO  Browser:19 - Hello
+2017-08-24 15:17:04 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 16:28:12 INFO  Browser:18 - Hello
+2017-08-24 16:28:12 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:34:21 INFO  Browser:18 - Hello
+2017-08-24 17:34:21 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:35:57 INFO  Browser:18 - Hello
+2017-08-24 17:35:57 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:37:00 INFO  Browser:18 - Hello
+2017-08-24 17:37:35 INFO  Browser:18 - Hello
+2017-08-24 17:37:35 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:38:45 INFO  Browser:18 - Hello
+2017-08-24 17:38:45 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:39:25 INFO  Browser:18 - Hello
+2017-08-24 17:39:25 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:39:47 INFO  Browser:18 - Hello
+2017-08-24 17:39:47 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:44:04 INFO  Browser:18 - Hello
+2017-08-24 17:44:04 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:45:28 INFO  Browser:18 - Hello
+2017-08-24 17:45:28 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:45:39 INFO  Browser:19 - Hello
+2017-08-24 17:45:39 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:50:57 INFO  Browser:18 - Hello
+2017-08-24 17:50:57 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:51:01 INFO  Browser:18 - Hello
+2017-08-24 17:51:01 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 17:51:33 INFO  Browser:18 - Hello
+2017-08-24 17:51:33 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:19:09 INFO  Browser:18 - Hello
+2017-08-24 18:19:09 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:19:31 INFO  Browser:18 - Hello
+2017-08-24 18:19:31 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:21:11 INFO  Browser:18 - Hello
+2017-08-24 18:21:11 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:22:29 INFO  Browser:18 - Hello
+2017-08-24 18:22:29 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:23:32 INFO  Browser:18 - Hello
+2017-08-24 18:23:32 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:28:54 INFO  Browser:18 - Hello
+2017-08-24 18:28:54 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:29:10 INFO  Browser:18 - Hello
+2017-08-24 18:29:10 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:30:10 INFO  Browser:18 - Hello
+2017-08-24 18:30:10 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:33:38 INFO  Browser:18 - Hello
+2017-08-24 18:33:38 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:33:46 INFO  Browser:24 - Implicit wait applied on the driver for 60 seconds
+2017-08-24 18:33:46 INFO  Browser:26 - Maximixe the window
+2017-08-24 18:33:46 INFO  Browser:27 - Web application launched: http://toolsqa.com/handling-alerts-using-selenium-webdriver/
+2017-08-24 18:38:51 INFO  Browser:18 - Hello
+2017-08-24 18:38:51 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:38:51 INFO  DataStoreRepository:52 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-08-24 18:39:12 INFO  Browser:18 - Hello
+2017-08-24 18:39:12 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:39:12 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:39:18 INFO  Browser:24 - Implicit wait applied on the driver for 60 seconds
+2017-08-24 18:39:18 INFO  Browser:26 - Maximixe the window
+2017-08-24 18:39:18 INFO  Browser:27 - Web application launched: http://toolsqa.com/handling-alerts-using-selenium-webdriver/
+2017-08-24 18:39:24 INFO  Browser:18 - Hello
+2017-08-24 18:39:24 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:39:24 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:39:28 INFO  Browser:24 - Implicit wait applied on the driver for 60 seconds
+2017-08-24 18:39:46 INFO  Browser:18 - Hello
+2017-08-24 18:39:46 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:39:46 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:39:49 INFO  Browser:24 - Implicit wait applied on the driver for 60 seconds
+2017-08-24 18:39:49 INFO  Browser:26 - Maximixe the window
+2017-08-24 18:39:49 INFO  Browser:27 - Web application launched: http://toolsqa.com/handling-alerts-using-selenium-webdriver/
+2017-08-24 18:40:16 INFO  Browser:18 - Hello
+2017-08-24 18:40:16 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:40:16 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:40:21 INFO  Browser:24 - Implicit wait applied on the driver for 60 seconds
+2017-08-24 18:40:21 INFO  Browser:26 - Maximixe the window
+2017-08-24 18:40:21 INFO  Browser:27 - Web application launched: http://toolsqa.com/handling-alerts-using-selenium-webdriver/
+2017-08-24 18:40:41 INFO  Browser:18 - Hello
+2017-08-24 18:40:41 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:40:41 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:40:46 INFO  Browser:24 - Implicit wait applied on the driver for 60 seconds
+2017-08-24 18:41:18 INFO  Browser:18 - Hello
+2017-08-24 18:41:18 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:41:18 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:41:26 INFO  Browser:24 - Implicit wait applied on the driver for 60 seconds
+2017-08-24 18:41:29 INFO  Browser:18 - Hello
+2017-08-24 18:41:29 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:41:29 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-24 18:41:33 INFO  Browser:24 - Implicit wait applied on the driver for 60 seconds
+2017-08-24 18:41:33 INFO  Browser:26 - Maximixe the window
+2017-08-24 18:41:33 INFO  Browser:27 - Web application launched: http://toolsqa.com/handling-alerts-using-selenium-webdriver/
+2017-08-28 11:18:39 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-28 11:18:39 INFO  DataStoreRepository:52 - Property file is loaded successfully: config.properties
+2017-08-28 11:18:44 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-08-28 11:18:45 INFO  Browser:25 - Maximixe the window
+2017-08-28 11:18:45 INFO  Browser:26 - Web application launched: http://toolsqa.com/handling-alerts-using-selenium-webdriver/
+2017-11-21 12:43:01 INFO  DataStoreRepository:74 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-11-21 12:43:01 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 12:43:01 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:43:01 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:44:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-11-21 12:44:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 12:44:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:44:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:46:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-11-21 12:46:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 12:46:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:46:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:46:36 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-21 12:46:37 INFO  Browser:23 - Maximixe the window
+2017-11-21 12:46:37 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-21 12:47:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-11-21 12:47:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 12:47:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:47:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:47:14 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-21 12:47:16 INFO  Browser:23 - Maximixe the window
+2017-11-21 12:47:16 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-21 12:49:19 INFO  DataStoreRepository:74 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-11-21 12:49:19 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 12:49:19 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:49:19 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 12:49:23 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-21 12:49:24 INFO  Browser:23 - Maximixe the window
+2017-11-21 12:49:24 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-21 12:51:04 INFO  DataStoreRepository:74 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-11-21 12:51:04 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 12:52:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-11-21 12:52:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 12:52:55 INFO  DataStoreRepository:74 - Property file is loaded successfully: pageobjects/loginPage.properties
+2017-11-21 12:52:55 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 13:01:09 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 13:01:09 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 13:26:39 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects1/loginPage.properties
+2017-11-21 13:26:39 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:12:45 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:12:45 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:13:29 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:13:29 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:15:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:15:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:15:48 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:15:48 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:15:48 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:15:48 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:15:53 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-21 14:15:54 INFO  Browser:23 - Maximixe the window
+2017-11-21 14:15:54 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-21 14:16:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:16:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:16:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:16:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:16:58 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-21 14:16:59 INFO  Browser:23 - Maximixe the window
+2017-11-21 14:16:59 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-21 14:22:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:22:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:22:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:22:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:22:42 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-21 14:22:43 INFO  Browser:23 - Maximixe the window
+2017-11-21 14:22:43 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-21 14:22:43 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:22:43 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:22:48 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-21 14:22:49 INFO  Browser:23 - Maximixe the window
+2017-11-21 14:22:49 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-21 14:23:20 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:23:20 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:23:20 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:23:20 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-21 14:23:25 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-21 14:23:26 INFO  Browser:23 - Maximixe the window
+2017-11-21 14:23:26 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-21 14:25:44 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:25:44 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:26:55 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:26:55 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:29:43 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:29:43 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-21 14:29:52 INFO  DataStoreRepository:74 - Property file is loaded successfully: PageObjects/loginPage.properties
+2017-11-21 14:29:52 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 10:26:21 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 10:26:21 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 10:26:27 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 10:26:28 INFO  Browser:23 - Maximixe the window
+2017-11-23 10:26:28 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:01:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:01:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:01:39 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:01:40 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:01:40 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:08:23 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:08:23 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:08:41 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:08:42 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:08:42 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:10:59 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:10:59 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:11:06 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:11:08 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:11:08 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:13:07 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:13:07 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:13:25 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:13:27 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:13:27 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:14:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:14:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:14:40 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:14:41 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:14:41 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:23:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 11:23:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:23:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:23:40 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:23:41 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:23:41 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:24:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 11:24:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:24:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:24:44 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:24:46 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:24:46 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:25:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 11:25:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:25:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:25:58 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:25:59 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:25:59 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:26:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 11:26:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:26:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:26:41 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:26:43 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:26:43 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:34:52 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 11:34:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:34:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:35:00 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:35:01 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:35:01 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:37:05 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 11:37:05 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:37:05 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:37:10 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:37:11 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:37:11 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:38:07 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 11:38:07 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:38:07 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:38:11 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:38:12 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:38:12 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 11:45:51 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 11:45:51 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:45:51 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 11:45:56 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 11:45:57 INFO  Browser:23 - Maximixe the window
+2017-11-23 11:45:57 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 12:53:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 12:53:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 12:53:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 12:53:15 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 12:53:16 INFO  Browser:23 - Maximixe the window
+2017-11-23 12:53:16 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 12:53:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 12:53:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 12:53:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 12:53:50 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 12:53:51 INFO  Browser:23 - Maximixe the window
+2017-11-23 12:53:51 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 12:55:11 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 12:55:11 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 12:55:11 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 12:55:16 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 12:55:17 INFO  Browser:23 - Maximixe the window
+2017-11-23 12:55:17 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:10:12 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:10:13 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:10:13 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:10:18 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:10:19 INFO  Browser:23 - Maximixe the window
+2017-11-23 14:10:19 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:11:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:11:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:11:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:11:53 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:11:54 INFO  Browser:23 - Maximixe the window
+2017-11-23 14:11:54 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:12:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:12:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:12:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:12:57 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:12:59 INFO  Browser:23 - Maximixe the window
+2017-11-23 14:12:59 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:15:48 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:15:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:15:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:15:54 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:15:55 INFO  Browser:23 - Maximixe the window
+2017-11-23 14:15:55 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:25:00 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:25:00 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:25:00 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:25:04 INFO  Browser:21 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:25:06 INFO  Browser:23 - Maximixe the window
+2017-11-23 14:25:06 INFO  Browser:24 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:27:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:27:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:27:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:27:53 INFO  Browser:20 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:27:54 INFO  Browser:22 - Maximixe the window
+2017-11-23 14:27:54 INFO  Browser:23 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:30:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:30:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:30:53 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:30:58 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:30:59 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:30:59 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:32:00 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:32:00 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:32:00 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:32:06 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:32:07 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:32:07 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:38:13 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:38:13 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:38:13 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:38:17 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:38:19 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:38:19 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:39:51 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:39:51 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:39:51 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:39:55 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:39:56 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:39:56 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:40:52 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:40:52 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:40:52 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:40:56 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:40:57 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:40:57 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:42:57 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:42:57 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:42:57 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:43:02 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:43:03 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:43:03 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:43:38 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:43:38 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:43:38 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:43:42 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:43:43 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:43:43 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:44:33 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:44:34 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:44:34 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:44:38 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:44:39 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:44:39 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:45:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:45:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:45:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:45:51 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:45:52 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:45:52 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:46:38 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:46:38 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:46:38 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:46:43 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:46:44 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:46:44 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:47:28 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:47:28 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:47:28 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:47:32 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:47:34 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:47:34 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:48:59 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:48:59 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:48:59 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:49:03 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:49:05 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:49:05 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:50:20 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:50:20 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:50:20 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:50:24 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:50:25 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:50:25 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:52:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:52:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:52:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:52:34 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:52:35 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:52:35 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:54:42 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:54:42 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:54:42 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:54:46 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:54:47 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:54:47 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:56:02 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:56:02 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:56:02 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:56:06 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:56:07 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:56:07 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:56:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:56:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:56:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:56:54 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:56:55 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:56:55 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 14:58:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 14:58:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:58:31 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 14:58:36 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 14:58:37 INFO  Browser:25 - Maximixe the window
+2017-11-23 14:58:37 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:01:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:01:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:01:46 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:01:51 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:01:52 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:01:52 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:03:17 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:03:17 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:03:17 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:03:21 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:03:22 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:03:22 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:04:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:04:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:04:10 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:04:15 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:04:16 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:04:16 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:05:05 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:05:05 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:05:05 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:05:09 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:05:11 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:05:11 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:05:44 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:05:44 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:05:44 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:05:48 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:05:49 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:05:49 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:06:11 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:06:11 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:06:11 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:06:15 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:06:16 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:06:16 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:07:39 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:07:39 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:07:39 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:07:43 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:07:45 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:07:45 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:08:03 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:08:03 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:08:03 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:08:07 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:08:08 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:08:08 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:18:37 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:18:37 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:18:37 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:18:42 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:18:43 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:18:43 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:19:49 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:19:50 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:19:50 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:19:54 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:19:55 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:19:55 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:21:02 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:21:02 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:21:02 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:21:07 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:21:09 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:21:09 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:21:27 INFO  ElementActionsImpl:175 - Text entered on this locator :id=j_usernamesuperadmin@lrs.com
+2017-11-23 15:23:42 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:23:42 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:23:42 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:23:46 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:23:47 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:23:47 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:23:50 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_usernamesuperadmin@lrs.com
+2017-11-23 15:23:50 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_usernamePassword1
+2017-11-23 15:24:33 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:24:33 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:24:33 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:24:38 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:24:39 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:24:39 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:24:42 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_usernamesuperadmin@lrs.com
+2017-11-23 15:24:42 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_passwordPassword1
+2017-11-23 15:28:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:28:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:28:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:28:44 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:28:45 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:28:45 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:29:11 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_usernamesuperadmin@lrs.com
+2017-11-23 15:29:31 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_passwordPassword1
+2017-11-23 15:30:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:30:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:30:40 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:30:45 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:30:46 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:30:46 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:30:49 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_usernamesuperadmin@lrs.com
+2017-11-23 15:30:49 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_passwordPassword1
+2017-11-23 15:36:03 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 15:36:03 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:36:03 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 15:36:07 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 15:36:08 INFO  Browser:25 - Maximixe the window
+2017-11-23 15:36:08 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 15:36:12 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_usernamesuperadmin@lrs.com
+2017-11-23 15:36:12 INFO  ElementActionsImpl:171 - Text entered on this locator :id=j_passwordPassword1
+2017-11-23 15:36:12 INFO  ElementActionsImpl:91 - Click action performed on this element: xpath=//button[contains(.,'Login')]
+2017-11-23 18:04:26 INFO  DataStoreRepository:74 - Property file is loaded successfully: TestData/loginTestData.properties
+2017-11-23 18:04:26 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 18:04:26 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-11-23 18:04:32 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-11-23 18:04:33 INFO  Browser:25 - Maximixe the window
+2017-11-23 18:04:33 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-11-23 18:06:26 INFO  ElementActionsImpl:167 - Text entered on this locator :id=j_usernamesuperadmin@lrs.com
+2017-11-23 18:06:32 INFO  ElementActionsImpl:167 - Text entered on this locator :id=j_passwordPassword1
+2017-11-23 18:06:49 INFO  ElementActionsImpl:91 - Click action performed on this element: xpath=//button[contains(.,'Login')]
+2017-12-07 11:09:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 11:09:35 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 11:09:40 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 11:09:41 INFO  Browser:25 - Maximixe the window
+2017-12-07 11:09:41 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 11:10:33 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 11:10:33 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 11:10:37 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 11:10:38 INFO  Browser:25 - Maximixe the window
+2017-12-07 11:10:38 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 11:12:34 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 11:12:34 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 11:12:38 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 11:12:39 INFO  Browser:25 - Maximixe the window
+2017-12-07 11:12:39 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:02:03 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:02:03 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:02:09 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:02:10 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:02:10 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:09:08 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:09:08 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:09:13 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:09:14 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:09:14 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:17:00 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:17:00 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:17:04 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:17:06 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:17:06 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:17:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:17:36 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:17:41 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:17:42 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:17:42 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:18:33 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:18:33 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:18:37 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:18:38 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:18:38 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:19:59 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:19:59 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:20:04 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:20:05 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:20:05 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:20:28 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:20:28 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:20:32 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:20:34 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:20:34 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:21:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:21:30 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:21:32 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:21:37 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:21:37 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-07 12:21:38 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:21:38 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-07 12:21:41 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-07 12:21:42 INFO  Browser:25 - Maximixe the window
+2017-12-07 12:21:42 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-11 11:46:25 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 11:46:25 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 11:46:31 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-11 11:46:32 INFO  Browser:25 - Maximixe the window
+2017-12-11 11:46:32 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-11 11:46:38 INFO  Element:109 - Entered text on this element
+2017-12-11 11:46:58 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 11:46:58 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 11:47:03 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-11 11:47:04 INFO  Browser:25 - Maximixe the window
+2017-12-11 11:47:04 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-11 11:47:07 INFO  Element:109 - Entered text on this element
+2017-12-11 11:47:07 INFO  Element:94 - Perform click action on this element
+2017-12-11 14:49:21 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 14:49:21 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 14:49:25 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-11 14:49:26 INFO  Browser:25 - Maximixe the window
+2017-12-11 14:49:26 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-11 14:49:29 INFO  Element:112 - Entered text on this element
+2017-12-11 14:49:29 INFO  Element:112 - Entered text on this element
+2017-12-11 14:49:29 INFO  Element:97 - Perform click action on this element
+2017-12-11 17:24:26 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 17:24:26 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 17:24:30 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-11 17:24:31 INFO  Browser:25 - Maximixe the window
+2017-12-11 17:24:31 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-11 17:24:34 INFO  Element:113 - Entered text on this element
+2017-12-11 17:24:34 INFO  Element:113 - Entered text on this element
+2017-12-11 17:24:34 INFO  Element:98 - Perform click action on this element
+2017-12-11 17:25:27 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 17:25:27 INFO  DataStoreRepository:74 - Property file is loaded successfully: config.properties
+2017-12-11 17:25:31 INFO  Browser:23 - Implicit wait applied on the driver for 60 seconds
+2017-12-11 17:25:33 INFO  Browser:25 - Maximixe the window
+2017-12-11 17:25:33 INFO  Browser:26 - Web application launched: https://devconnect.lrsus.com/
+2017-12-11 17:25:36 INFO  Element:113 - Entered text on this element
+2017-12-11 17:25:36 INFO  Element:113 - Entered text on this element
+2017-12-11 17:25:36 INFO  Element:98 - Perform click action on this element
+2017-12-11 17:25:40 INFO  Element:98 - Perform click action on this element
