@@ -9,7 +9,7 @@ public class TestngVerifications {
 	 * @param expectedText
 	 * @param actualText
 	 */
-	public void verifyText(String expectedText, String actualText) {
+	public void assertExpectedEqualsActual(String expectedText, String actualText) {
 
 		Assert.assertEquals(expectedText, actualText);
 

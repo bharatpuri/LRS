@@ -19,7 +19,7 @@ public abstract class Browser {
 		String webURL = dataStoreRepository.getValue("testsiteBaseURl");
 
 		getBrowser().get(webURL);
-		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(120, TimeUnit.SECONDS);
 		LOGGER.info("Implicit wait applied on the driver for 60 seconds");
 		getDriver().manage().window().maximize();
 		LOGGER.info("Maximixe the window");
@@ -27,7 +27,10 @@ public abstract class Browser {
 
 	}
 
-	public abstract WebDriver getBrowser() throws CustomException;
+	public WebDriver getBrowser() throws CustomException {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 	public void closeBrowser() throws CustomException {
 		if (driver != null) {

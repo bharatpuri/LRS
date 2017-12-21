@@ -1,6 +1,7 @@
 package applicationActions;
 
 import com.automation.base.CustomException;
+import com.pageObjects.AccountPage;
 import com.pageObjects.LoginPage;
 
 /**
@@ -18,9 +19,12 @@ public class LoginActions {
 	 * @param password
 	 * @throws CustomException
 	 */
-	public void loginAsSuperAdmin(String userName, String password) throws CustomException {
-		LoginPage.userName.setText(userName);
+	public void loginInLRSApplication(String userName, String password) throws CustomException {
+		LoginPage.loginuserName.setText(userName);
 		LoginPage.loginPassword.setText(password);
 		LoginPage.loginButton.performClickAction();
+		LoginPage.loggedInUserName.performClickAction();
+		LoginPage.profileOption.performClickAction();
+		LoginPage.accountRoleName.isElementDisplayed();
 	}
 }

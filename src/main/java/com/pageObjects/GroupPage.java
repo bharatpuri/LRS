@@ -10,12 +10,19 @@ import selenium.LocatorType;
  *
  */
 public class GroupPage {
-
-	public static Element groupTab = new Element(LocatorType.ID, "lrsadminAccGroupItem");
-
+	
+	public static Element groupTab = new Element(LocatorType.XPATH, "//li[(@id='lrsadminAccGroupItem')]");
+	
+	public static Element groupTabCaret = new Element(LocatorType.XPATH, "//li[@id='lrsadminAccGroupItem']//a[1]//span");
+	
 	public static Element addNewGroup = new Element(LocatorType.ID, "addAccountGroups");
 
+	public static Element newGroupLabel = new Element(LocatorType.ID, "accountGroupsNameLbl");
+
 	public static Element viewAllGroups = new Element(LocatorType.ID, "showAllAccountGroup");
+
+	public static Element groupDetailLalelOnViewGroupsPage = new Element(LocatorType.XPATH,
+			"//div[text()='Group Detail']");
 
 	public static Element accountGroupName = new Element(LocatorType.ID, "accountGroupName");
 
